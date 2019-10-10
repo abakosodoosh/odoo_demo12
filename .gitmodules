@@ -1,0 +1,4 @@
+[submodule "joseluisbossio/latan"]
+	path = joseluisbossio/latan
+	url = git@github.com:joseluisbossio/latan.git
+	branch = master
